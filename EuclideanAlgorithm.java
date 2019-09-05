@@ -11,7 +11,8 @@ public class EuclideanAlgorithm
     
     public static void main()
     {
-        int a, b, deltaA, deltaB, q, r, gcd, lcm;
+        int a, b, deltaA, deltaB, q, r, gcd;
+        int lcm;
         
         ConsoleIO inputs = new ConsoleIO();
         System.out.println("Please think of two positive integers 'a' and 'b'.");
